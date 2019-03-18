@@ -1,0 +1,43 @@
+
+// Variables
+@import 'variables';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.purple-gradient {
+  background: -webkit-linear-gradient(50deg, #ff6ec4, #7873f5)!important;
+  background: linear-gradient(40deg, #ff6ec4, #7873f5)!important
+}
+
+.peach-gradient {
+  background: -webkit-linear-gradient(50deg, #ffd86f, #fc6262)!important;
+  background: linear-gradient(40deg, #ffd86f, #fc6262)!important
+}
+
+.aqua-gradient {
+  background: -webkit-linear-gradient(50deg, #2096ff, #05ffa3)!important;
+  background: linear-gradient(40deg, #2096ff, #05ffa3)!important
+}
+
+.blue-gradient {
+  background: -webkit-linear-gradient(50deg, #45cafc, #303f9f)!important;
+  background: linear-gradient(40deg, #45cafc, #303f9f)!important
+}
+
+
+.card-title-out {
+  -webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15);
+  box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15);
+  color: #fff;
+  text-align: center;
+  margin-top: -45px;
+  margin-bottom: 0rem;
+  margin-right: 1.5rem;
+  margin-left: 1.5rem;
+  padding: 0.2rem;
+  -webkit-border-radius: .125rem;
+  border-radius: .125rem;
+}
